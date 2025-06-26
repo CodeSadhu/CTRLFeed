@@ -28,8 +28,8 @@ CTRLFeed is a browser extension designed to automate and personalize your YouTub
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ctrlfeed.git
-cd ctrlfeed
+git clone https://github.com/CodeSadhu/CTRLFeed.git
+cd CTRLFeed
 ```
 
 ### 2. Load the Extension in Chrome
