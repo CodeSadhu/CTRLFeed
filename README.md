@@ -51,7 +51,7 @@ cd CTRLFeed
 
 ## 🔒 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE (GPL) v3 License**.  
 See [LICENSE](./LICENSE) for details.
 
 ---
